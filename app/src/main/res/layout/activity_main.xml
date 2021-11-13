@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FF0000"
+    android:background="#FFFF00"
     android:orientation="horizontal"
     android:largeScreens="true"
     tools:context=".MainActivity">
@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="1dp"
         android:layout_marginTop="1dp"
-        app:cardBackgroundColor="@android:color/holo_red_light"
+        app:cardBackgroundColor="#FFFF00"
         app:cardCornerRadius="5dp"
         app:cardElevation="10dp"
         app:cardMaxElevation="12dp"
@@ -105,7 +105,7 @@
             android:layout_marginLeft="15mm"
             android:layout_marginTop="365dp"
             android:text="User name/Email address"
-            android:textColor="@color/design_default_color_primary_dark"
+            android:textColor="@android:color/holo_red_dark"
             android:textSize="17sp"
             android:textStyle="bold" />
 
@@ -133,7 +133,7 @@
             android:layout_marginStart="22mm"
             android:layout_marginTop="450dp"
             android:text="Password"
-            android:textColor="@color/design_default_color_primary_dark"
+            android:textColor="@android:color/holo_red_dark"
             android:textSize="17sp"
             android:textStyle="bold" />
 
