@@ -105,7 +105,7 @@
             android:layout_marginLeft="15mm"
             android:layout_marginTop="365dp"
             android:text="User name/Email address"
-            android:textColor="@android:color/holo_red_dark"
+            android:textColor="@color/design_default_color_primary_dark"
             android:textSize="17sp"
             android:textStyle="bold" />
 
@@ -133,7 +133,7 @@
             android:layout_marginStart="22mm"
             android:layout_marginTop="450dp"
             android:text="Password"
-            android:textColor="@android:color/holo_red_dark"
+            android:textColor="@color/design_default_color_primary_dark"
             android:textSize="17sp"
             android:textStyle="bold" />
 
